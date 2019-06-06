@@ -8,7 +8,7 @@ void main()
  scanf("%ld",&n);
  for(i=1;i<=n;i++)
  {
- printf("\n 5 * %id = %d",i,5*i);
+ printf("\n 5 * %ld = %ld",i,5*i);
  }
  getch();
 } 
