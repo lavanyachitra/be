@@ -1,5 +1,5 @@
 num=int(input())
-a=b
+a=num
 c=0
 while(a!=0):
     d=a%10
