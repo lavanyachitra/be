@@ -1,4 +1,4 @@
-n=input()
-n=n.split()
-n=list(map(int,n))
-print(max(n))
+x=input()
+x=x.split()
+x=list(map(int,x))
+print(max(x))
