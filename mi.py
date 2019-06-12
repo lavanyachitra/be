@@ -1,4 +1,4 @@
-p1.t1=input().split()
+p1,t1=input().split()
 p2,t2=input().split()
 p1=int(p1)
 t1=int(t1)
