@@ -1,0 +1,7 @@
+p1.t1=input().split()
+p2,t2=input().split()
+p1=int(p1)
+t1=int(t1)
+p2=int(p2)
+t2=int(t2)
+print(abs(p1-p2),abs(t1-t2)),end=" ")
